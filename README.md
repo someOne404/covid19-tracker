@@ -1,3 +1,17 @@
+# covid19-tracker
+A Mapping App with Gatsby and React Leaflet, tracking the impact Covid-19 has had on the world.
+
+Thanks to Colby Fayock who wrote the tutorial for this app at https://www.freecodecamp.org/news/how-to-create-a-coronavirus-covid-19-dashboard-map-app-in-react-with-gatsby-and-leaflet/
+
+## API
+- Uses https://github.com/ExpDev07/coronavirus-tracker-api via https://coronavirus-tracker-api.herokuapp.com
+
+## Data Sources
+- JHU - https://github.com/CSSEGISandData/COVID-19 - Worldwide Data repository operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE).
+- CSBS - https://csbs.org/information-covid-19-coronavirus - U.S. County data that comes from the Conference of State Bank Supervisors.
+
+------------------------------------------------
+
 # 🍃 Gatsby Leaflet Starter
 
 Jumpstart your next Gatsby mapping project with Leaflet!
