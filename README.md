@@ -1,6 +1,8 @@
 # covid19-tracker
 A Mapping App with Gatsby and React Leaflet, tracking the impact Covid-19 has had on the world.
 
+Deployed at https://covid19-tracker-murex.now.sh/
+
 Thanks to Colby Fayock who wrote the tutorial for this app at https://www.freecodecamp.org/news/how-to-create-a-coronavirus-covid-19-dashboard-map-app-in-react-with-gatsby-and-leaflet/
 
 ## API
